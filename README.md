@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm a Senior Software Engineer 👋
 
-<!--
-**rtech91/rtech91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Location:** Rivne, Ukraine 🇺🇦
+- **Languages:** PHP, Python, Go, and much more
+- **Frameworks/CMS:** Drupal CMF/CMS, WordPress, Laravel, Symfony
+- **Featured open source projects:**
+  - [JustJump](https://github.com/rtech91/justjump)
+  - [Drupal Scout](https://github.com/rtech91/drupal-scout)
+- **Hobbies:** Bicycle traveling 🚴 and Xbox gaming 🎮
+- **Language linguist:** If you know Assembler, every other language is just a framework. Most modern languages borrow and reuse features, so learning new ones is just connecting familiar concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [Email](mailto:in0mad91@gmail.com)
+
+---
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtech91&layout=compact)
+
+---
+
+## Recent Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rtech91&theme=github-compact)
+
+---
+
+Feel free to connect!
